@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/DZ_10/Homework_10/bin/Debug/net6.0/Homework_10
+/Users/kristina/Desktop/DZ_10/Homework_10/bin/Debug/net6.0/Homework_10.deps.json
+/Users/kristina/Desktop/DZ_10/Homework_10/bin/Debug/net6.0/Homework_10.runtimeconfig.json
+/Users/kristina/Desktop/DZ_10/Homework_10/bin/Debug/net6.0/Homework_10.dll
+/Users/kristina/Desktop/DZ_10/Homework_10/bin/Debug/net6.0/ref/Homework_10.dll
+/Users/kristina/Desktop/DZ_10/Homework_10/bin/Debug/net6.0/Homework_10.pdb
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.AssemblyInfo.cs
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.dll
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/ref/Homework_10.dll
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.pdb
+/Users/kristina/Desktop/DZ_10/Homework_10/obj/Debug/net6.0/Homework_10.genruntimeconfig.cache
